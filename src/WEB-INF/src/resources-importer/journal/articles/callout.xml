@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element name="Title" type="text" index-type="keyword" index="0" instance-id="rrir">
+        <dynamic-content language-id="en_US"><![CDATA[This is awesome!]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Subtitle" type="text" index-type="keyword" index="0" instance-id="lacd">
+        <dynamic-content language-id="en_US"><![CDATA[Nullam ac arcu a mi finibus vestibulum. Aenean in est dolor.]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="BackgroundImage" type="image" index-type="keyword" index="0" instance-id="ckri">
+        <dynamic-content language-id="en_US"><![CDATA[[$FILE=london.jpg$]]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Height" type="ddm-number" index-type="keyword" index="0" instance-id="eobo">
+        <dynamic-content language-id="en_US"><![CDATA[400]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Colour" type="text" index-type="keyword" index="0" instance-id="eyqf">
+        <dynamic-content language-id="en_US"><![CDATA[#fff]]></dynamic-content>
+    </dynamic-element>
+</root>

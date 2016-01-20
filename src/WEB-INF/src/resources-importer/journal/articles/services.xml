@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element name="ServicesTitle" type="text" index-type="keyword" index="0" instance-id="vjpl">
+        <dynamic-content language-id="en_US"><![CDATA[teste service]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Columns" type="ddm-integer" index-type="keyword" index="0" instance-id="qytd">
+        <dynamic-content language-id="en_US"><![CDATA[2]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="Service" type="selection_break" index-type="keyword" index="0" instance-id="volp">
+        <dynamic-element name="Name" index="0" instance-id="pyrf" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Service cloud]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="0" instance-id="vwln" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ante augue, fermentum finibus diam a, pretium molestie diam.]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Link" index="0" instance-id="vzov" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#top]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="0" instance-id="friz" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-cloud]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="Service" type="selection_break" index-type="keyword" index="1" instance-id="stqh">
+        <dynamic-element name="Name" index="0" instance-id="awgn" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Service compas]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="0" instance-id="gkbn" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ante augue, fermentum finibus diam a, pretium molestie diam.]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Link" index="0" instance-id="vnid" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#top]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="0" instance-id="mhhg" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-compass]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="Service" type="selection_break" index-type="keyword" index="2" instance-id="idxs">
+        <dynamic-element name="Name" index="0" instance-id="vfzj" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Service beaker]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="0" instance-id="otpe" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ante augue, fermentum finibus diam a, pretium molestie diam.]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Link" index="0" instance-id="xvqy" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#top]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="0" instance-id="ytig" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-beaker]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+    <dynamic-element name="Service" type="selection_break" index-type="keyword" index="3" instance-id="gxvp">
+        <dynamic-element name="Name" index="0" instance-id="ebgt" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Service beer]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Description" index="0" instance-id="urri" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ante augue, fermentum finibus diam a, pretium molestie diam.]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Link" index="0" instance-id="eufy" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[#top]]></dynamic-content>
+        </dynamic-element>
+        <dynamic-element name="Icon" index="0" instance-id="njgb" type="text" index-type="keyword">
+            <dynamic-content language-id="en_US"><![CDATA[icon-beer]]></dynamic-content>
+        </dynamic-element>
+    </dynamic-element>
+</root>

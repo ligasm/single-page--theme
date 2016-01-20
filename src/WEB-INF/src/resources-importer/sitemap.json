@@ -1,0 +1,16 @@
+{
+	"layoutTemplateId": "1_column",
+	"privatePages": [
+		{
+			"columns": [
+
+				"services.xml",
+				"map.xml"
+
+			],
+			"friendlyURL": "/home",
+			"name": "Welcome",
+			"title": "Welcome"
+		}
+	]
+}

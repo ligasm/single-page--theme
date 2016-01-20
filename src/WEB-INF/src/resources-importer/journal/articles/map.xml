@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root available-locales="en_US" default-locale="en_US">
+    <dynamic-element name="coordinatesMap" type="text" index-type="keyword" index="0" instance-id="kbqx">
+        <dynamic-content language-id="en_US"><![CDATA[51.5069468,-0.1282981]]></dynamic-content>
+    </dynamic-element>
+    <dynamic-element name="mapHeight" type="text" index-type="keyword" index="0" instance-id="ckvt">
+        <dynamic-content language-id="en_US"><![CDATA[450px]]></dynamic-content>
+    </dynamic-element>
+</root>
