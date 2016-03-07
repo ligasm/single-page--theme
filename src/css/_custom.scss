@@ -179,6 +179,11 @@ footer {
 /* LFR overrides  */
 
 .mt {
+
+  & > div.flipped{
+    height: 100%;
+  }
+
   .control-menu {
     left: 0;
     position: fixed;

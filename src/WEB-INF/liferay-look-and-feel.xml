@@ -6,7 +6,7 @@
 		<version>7.0.0+</version>
 	</compatibility>
 	<theme id="marketing-theme" name="marketing-theme">
-		<template-extension>vm</template-extension>
+		<template-extension>ftl</template-extension>
 		<settings>
 			<setting configurable="true" key="main-message" type="text"  value="Check out this!"/>
 			<setting configurable="true" key="submessage" type="text" value="Is it not awesome!"/>
